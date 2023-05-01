@@ -1,5 +1,5 @@
 # Encrypt-Decrypt
-Encryption and Decryption
+Encryption and Decryption System
 
 This project will give you options to Encrypt or Decrypt any type of 
 file. First it will ask you the ‘key’ which will be used to Encrypt or 
